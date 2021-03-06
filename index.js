@@ -1,8 +1,7 @@
 console.log("hello World");
 
-
-
-
-
-:wq
+func sum(a,b)
+{
+  console.log(a+b);
+}
 
