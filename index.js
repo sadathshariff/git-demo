@@ -1,7 +1,3 @@
-console.log("hello World");
+console.log("hello from Vs code ");
 
-func sum(a,b)
-{
-  console.log(a+b);
-}
 
