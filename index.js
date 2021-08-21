@@ -1,3 +1,2 @@
-console.log("hello from Vs code ");
-
+<h1>Console.log()</h1>
 
